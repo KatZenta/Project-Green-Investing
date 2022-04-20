@@ -1,5 +1,5 @@
 # Project-Green-Investing
-This project will determine whether investing in renewable energy is profitable and low risk. The focus will be on comparing a Solar energy portfolio with the S&amp;P 500. The analysis will look specifically at risk and returns to form a conclusion. 
+This project will determine whether investing in renewable energy is profitable and low risk. The focus will be on comparing a Solar energy portfolio with the S&amp;P 500 and NASDAQ. The analysis will look specifically at risk and returns to form a conclusion. 
 
 ## Project Objective
 
@@ -24,6 +24,9 @@ Exploration: 5 years data also split into 3 different timeframes to validate the
 1. Russia-Ukraine War (Feb – Apr 2022)
 2. COVID-19 (Jan’20 – Feb’22)
 3. Pre-COVID-19 (Jan’18 – Dec’19)
-Clean up and analysis: Analyze Daily Returns, STD Dev and Cumulative Return with graphs reflecting individual and average performance of the selected portfolio vs SP500 
+
+## Clean up and analysis 
+
+Analyze Daily Returns, STD Dev and Cumulative Return with graphs reflecting individual and average performance of the selected portfolio vs SP500 and NASDAQ 
 
 ## Key Takeaways: TBC
