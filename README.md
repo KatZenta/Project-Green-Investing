@@ -29,4 +29,16 @@ Exploration: 5 years data also split into 3 different timeframes to validate the
 
 Analyze Daily Returns, STD Dev and Cumulative Return with graphs reflecting individual and average performance of the selected portfolio vs SP500 and NASDAQ 
 
-## Key Takeaways: TBC
+## Key Takeaways
+
+Portfolio outperformed the market during all time frames analyzed
+
+Higher volatility than SPY and NASDAQ but more profitable with respect to risk 
+
+More correlation to SPY than NASDAQ – area to explore in next phase
+
+Precovid: Steady growth from H2 2019, driven by SEDG – monitor closely
+
+Covid: Accelerated growth following markets recovery post Q1’20 – all companies
+
+Ukrainian War: Faster growth in correlation with increases of oil prices
